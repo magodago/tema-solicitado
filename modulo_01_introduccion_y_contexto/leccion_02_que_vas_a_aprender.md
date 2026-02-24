@@ -1,24 +1,16 @@
 # Que vas a aprender
 
 ## Objetivos
-- Comprender el significado y la importancia de la introducción en un curso.
-- Identificar los elementos clave que deben incluirse en una introducción efectiva.
+- Comprender la importancia del tema solicitado y su relevancia en el contexto actual.
+- Identificar los principales conceptos relacionados con el tema.
 
 ## Contenido
-En este módulo, se explorará la importancia de la introducción como el primer paso hacia el aprendizaje exitoso. Durante esta lección, se aprenderá a identificar y entender los componentes esenciales que componen una buena introducción. Se destacarán las razones por las cuales una introducción clara y concisa es crucial para establecer expectativas y preparar al estudiante para el contenido del curso.
-
-Se discutirá cómo la introducción puede ser utilizada para:
-- Establecer el contexto del tema.
-- Presentar los objetivos del curso.
-- Resaltar el valor del aprendizaje para el estudiante.
-- Fomentar la motivación y el interés inicial por el tema.
+En esta lección introductoria, se explorará el significado fundamental y el marco conceptual del tema solicitado. Se abordarán las razones por las que este tema es crucial para comprender aspectos relevantes de la actualidad y cómo ha evolucionado a lo largo del tiempo. Se presentarán definiciones clave y ejemplos prácticos para facilitar su comprensión.
 
 ## Ejercicio
-Escribe una breve introducción para un curso sobre inteligencia artificial. Incluye:
-- Un contexto que explique brevemente qué es la inteligencia artificial.
-- Los objetivos principales del curso.
-- El valor que este curso puede aportar al estudiante en su carrera o vida personal.
+Después de repasar el contenido, identifique tres elementos fundamentales del tema solicitado que considera más relevantes y explique brevemente por qué cree que son importantes en el contexto actual.
 
 ## Resumen
-- La introducción establece el marco para el aprendizaje y ayuda a los estudiantes a comprender lo que esperan de la experiencia educativa.
-- Un buen inicio debe incluir un contexto, objetivos y valor del curso.
+- El tema solicitado es crucial para entender aspectos actuales.
+- Se presentan definiciones y ejemplos clave.
+- Los alumnos deben identificar elementos fundamentales del tema.
