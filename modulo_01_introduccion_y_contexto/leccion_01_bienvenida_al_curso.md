@@ -1,18 +1,18 @@
 # Bienvenida al curso
 
 ## Objetivos
-- Presentar al curso y sus contenidos.
-- Establecer expectativas y metas para los estudiantes.
+- Presentar el contexto y la importancia del tema solicitado.
+- Establecer expectativas sobre lo que se aprenderá a lo largo del curso.
 
 ## Contenido
-Bienvenidos a este emocionante viaje de aprendizaje. Este curso está diseñado para proporcionarte una sólida base en el tema solicitado, teoría y práctica combinadas para asegurar tu comprensión y desarrollo personal. Nuestro objetivo es no solo compartir conocimientos, sino también inspirarte a aplicar lo que aprendas en tus propias experiencias y retos diarios.
+Bienvenidos al curso de [Tema Solicitado]. Este recorrido académico está diseñado para proporcionar una comprensión profunda y práctica del tema, desde sus fundamentos hasta las aplicaciones más avanzadas. El objetivo principal es no solo introducirte en el campo, sino también equiparte con los conocimientos necesarios para abordar desafíos y oportunidades relacionados de manera efectiva.
 
-Durante este curso, exploraremos conceptos fundamentales, analizaremos casos reales y participaremos en actividades prácticas para afianzar tu comprensión. Estamos comprometidos con tu éxito y te animamos a interactuar activamente, compartir tus ideas e incursionar en el aprendizaje colaborativo.
+Durante este curso, exploraremos la evolución histórica del tema, su relevancia actual y sus posibilidades futuras. A través de una combinación de teoría y práctica, aprenderás a aplicar conceptos clave en situaciones reales, preparándote para contribuir significativamente en tu campo de interés.
 
 ## Ejercicio
-Después de leer esta lección, reflexiona sobre un desafío personal o profesional que crees que podrías abordar mejor si tienes más conocimiento del tema. Escribe una breve descripción de este desafío y cómo piensas que los conceptos del curso podrían ayudarte a superarlo.
+Realiza un breve resumen personal de por qué estás interesado en este tema y cuáles son tus expectativas al finalizar el curso. ¿Qué aspectos del tema te atraen más? ¿Cómo crees que podrías aplicar lo que aprendas en tu vida profesional o personal?
 
 ## Resumen
-- Presentación del curso y sus objetivos.
-- Establecimiento de expectativas para el aprendizaje.
-- Invitación al estudiante a participar activamente en el proceso.
+- Presentación del contexto y relevancia del tema.
+- Establecimiento de expectativas para el recorrido académico.
+- Invitación al alumno a reflexionar sobre su interés y objetivos.
