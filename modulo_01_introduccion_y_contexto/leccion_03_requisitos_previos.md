@@ -1,15 +1,17 @@
 # Requisitos previos
 
 ## Objetivos
-- Comprender los requisitos previos necesarios para abordar el tema solicitado.
-- Identificar las habilidades y conocimientos básicos requeridos.
+- Identificar los conocimientos básicos necesarios para abordar el curso.
+- Comprender la importancia de los requisitos previos en el aprendizaje.
 
 ## Contenido
-Antes de sumergirse en el estudio del tema solicitado, es crucial establecer un contexto adecuado. Los requisitos previos son fundamentales ya que proporcionan una base sólida sobre la cual construir el conocimiento avanzado. Estos pueden incluir habilidades técnicas específicas, conocimientos teóricos básicos o experiencias previas en áreas relacionadas. Por ejemplo, si el tema es programación de sistemas operativos, los requisitos previos podrían ser un entendimiento básico de lenguajes de programación y conceptos fundamentales de arquitectura de software.
+Para asegurar un aprendizaje efectivo, es crucial comprender y reconocer los requisitos previos que se requieren para este curso. Estos requisitos pueden variar según el tema del curso, pero generalmente incluyen conocimientos básicos de la materia, habilidades específicas o experiencia previa en áreas relacionadas. Por ejemplo, si el curso se centra en programación web, los requisitos previos podrían ser un entendimiento básico de HTML y CSS, así como una familiaridad con lenguajes de programación como JavaScript.
+
+Es importante reconocer que cada estudiante tiene un nivel de experiencia diferente, por lo que es fundamental evaluar cuáles son tus propias habilidades actuales para determinar si estás preparado para el curso. Esta evaluación te permitirá identificar áreas en las que podrías necesitar refuerzo o adquirir nuevos conocimientos antes de comenzar.
 
 ## Ejercicio
-Escribe una breve descripción de los requisitos previos que consideras necesarios para comenzar a estudiar el tema solicitado. Incluye al menos tres habilidades o conocimientos básicos que deberían poseerse antes de avanzar en el curso.
+Escribe una lista de los conocimientos básicos que crees que son necesarios para este curso, basándote en tu experiencia actual y el tema del mismo. Indica qué áreas te sientes cómodo/a y cuáles consideras que podrían ser un desafío.
 
 ## Resumen
-- Identificar los requisitos previos es vital para asegurar un aprendizaje efectivo.
-- Estos pueden incluir conocimientos teóricos, habilidades técnicas y experiencias previas.
+- Identifica tus propias habilidades y conocimientos actuales.
+- Reconoce la importancia de los requisitos previos para un aprendizaje efectivo.
